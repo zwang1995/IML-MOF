@@ -6,3 +6,5 @@
 * `training.py`: general workflow for model training 
 
 * `training_utils.py`: general functions used for training
+
+* `viz.py`: visualization
