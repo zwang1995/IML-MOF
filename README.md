@@ -11,5 +11,5 @@ This repository contains the data and script used in the publication:
 ### Required packages (Python 3.7)
 * [matminer](https://matminer.readthedocs.io/en/latest/): calculating classical force-field inspired descriptors 
 * [scikit-learn](https://scikit-learn.org/stable/): model development
-* [SHAP](https://shap.readthedocs.io/en/latest/index.html): interpretion of predictions
-* [seaborn](https://seaborn.pydata.org/): visualizzation
+* [SHAP](https://shap.readthedocs.io/en/latest/index.html): interpretation of predictions
+* [seaborn](https://seaborn.pydata.org/): visualization
