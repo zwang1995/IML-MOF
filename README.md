@@ -11,5 +11,6 @@ This repository contains the data and script of the publication:
 ### Required packages (Python 3.7)
 * [pymatgen](https://pymatgen.org/)
 * [matminer](https://github.com/hackingmaterials/matminer)
+* [openbabel](http://openbabel.org/wiki/Main_Page)
 * [SHAP](https://github.com/slundberg/shap)
 * [scikit-learn](https://scikit-learn.org/stable/#)
