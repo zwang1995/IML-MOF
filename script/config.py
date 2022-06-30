@@ -9,7 +9,7 @@ import numpy as np
 def get_params():
     params = {}
 
-    params["in_path"] = "../input/"
+    params["in_path"] = "../data/"
     params["out_path"] = "../output/"
 
     params["input_csv"] = params["in_path"] + "hMOF_list.csv"
