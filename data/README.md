@@ -1,7 +1,7 @@
 
-* `hMOF_list.csv`: the list of MOFs and corresponding adsorption dataused for model development
+* `hMOF_list.csv`: the list of MOFs and corresponding adsorption data used for model development
 
-Due to file size limit in GitHub, other data files were uploaded to Zenodo at https://doi.org/10.5281/zenodo.6782989 as a supplementary repository.
+Due to the file size limit in GitHub, other data files were uploaded to Zenodo at https://doi.org/10.5281/zenodo.6782989 as a supplementary repository.
 
 * `items_8800_comb.pickle`: MOF database used for model development (including MOF name, descriptors, etc.)
 
