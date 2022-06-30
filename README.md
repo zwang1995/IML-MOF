@@ -9,5 +9,7 @@ This repository contains the data and script of the publication:
 
 
 
+## Required packages
 
+[SHAP](https://github.com/slundberg/shap)
 
