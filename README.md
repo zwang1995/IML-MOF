@@ -9,8 +9,6 @@ This repository contains the data and script of the publication:
 <img src="https://repository-images.githubusercontent.com/509028386/90c15d12-eb29-400f-adf1-d773bb5dd3bb" width="900">
 
 ### Required packages (Python 3.7)
-* [pymatgen](https://pymatgen.org/)
-* [matminer](https://github.com/hackingmaterials/matminer)
-* [openbabel](http://openbabel.org/wiki/Main_Page)
-* [SHAP](https://github.com/slundberg/shap)
 * [scikit-learn](https://scikit-learn.org/stable/#)
+* [SHAP](https://github.com/slundberg/shap)
+* [seaborn](https://seaborn.pydata.org/)
