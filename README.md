@@ -9,7 +9,7 @@ This repository contains the data and scripts involved in the publication:
 <img src="https://repository-images.githubusercontent.com/509028386/90c15d12-eb29-400f-adf1-d773bb5dd3bb" width="700">
 
 ### Required packages (Python 3.7)
-* [matminer](https://matminer.readthedocs.io/en/latest/): calculating classical force-field inspired descriptors 
-* [scikit-learn](https://scikit-learn.org/stable/): model development
-* [SHAP](https://shap.readthedocs.io/en/latest/index.html): interpretation of predictions
-* [seaborn](https://seaborn.pydata.org/): visualization
+* [matminer](https://matminer.readthedocs.io/en/latest/): calculate classical force-field inspired descriptors for MOF structures
+* [scikit-learn](https://scikit-learn.org/stable/): build ML models
+* [SHAP](https://shap.readthedocs.io/en/latest/index.html): interpret ML models
+* [seaborn](https://seaborn.pydata.org/): create visualizations
