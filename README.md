@@ -1,6 +1,8 @@
-# ML-Interpreation-MOF
+## ML-Interpreation-MOF
 
-## Description
+<img src="https://repository-images.githubusercontent.com/509028386/90c15d12-eb29-400f-adf1-d773bb5dd3bb" width="900">
+
+### Description
 
 This repository contains the data and script of the publication:
 
@@ -9,7 +11,8 @@ This repository contains the data and script of the publication:
 
 
 
-## Required packages
-
-[SHAP](https://github.com/slundberg/shap)
-
+### Required packages (Python 3.7)
+* [pymatgen](https://pymatgen.org/)
+* [matminer](https://github.com/hackingmaterials/matminer)
+* [SHAP](https://github.com/slundberg/shap)
+* [scikit-learn](https://scikit-learn.org/stable/#)
