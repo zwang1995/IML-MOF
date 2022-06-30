@@ -1,5 +1,5 @@
 
-* `hMOF_list.csv`: the list of MOFs used for model development, including corresponding adsorption data
+* `hMOF_list.csv`: the list of MOFs and corresponding adsorption dataused for model development
 
 Due to file size limit in GitHub, other data files were uploaded to Zenodo at https://doi.org/10.5281/zenodo.6782989 as a supplementary repository.
 
