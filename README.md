@@ -1,4 +1,4 @@
-## Imterpretable Machine Learning (IML)-Metal-Organic Framework (MOF)
+## Imterpretable Machine Learning (IML)/Metal-Organic Framework (MOF)
 
 ### Description
 
