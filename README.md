@@ -18,4 +18,4 @@ This repository contains the data and scripts involved in the publication:
 * [PaDEL-Descriptor](http://www.yapcwsoft.com/dd/padeldescriptor/): produce PubChem fingerprints of MOF structures
 
 ### Maintainer
-Mr. Zihao Wang, zwang@mpi-magdeburg.mpg.de
+Mr. Zihao Wang: zwang@mpi-magdeburg.mpg.de
