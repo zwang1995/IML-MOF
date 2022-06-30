@@ -1,13 +1,13 @@
 # ML-Interpreation-MOF
 
-This is the repository for the publication (Chemical Engineering Journal, 2022, 444, 136651) entitled:
+## Description
 
-**_Interpretable machine learning for accelerating the discovery of metal-organic frameworks for ethane/ethylene separation_**
+This repository contains the data and script of the publication:
 
-authored by:
-
-_Zihao Wang, Teng Zhou, Kai Sundmacher_
+**_[Interpretable machine learning for accelerating the discovery of metal-organic frameworks for ethane/ethylene separation](https://doi.org/10.1016/j.cej.2022.136651)_**
 
 
 
-# 
+
+
+
