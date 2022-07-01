@@ -6,7 +6,7 @@ This repository contains the data and scripts involved in the publication:
 
 **_[Interpretable machine learning for accelerating the discovery of metal-organic frameworks for ethane/ethylene separation](https://doi.org/10.1016/j.cej.2022.136651)_**
 
-<img src="https://repository-images.githubusercontent.com/509028386/90c15d12-eb29-400f-adf1-d773bb5dd3bb" width="700">
+<img src="https://github.com/zwang1995/IML-MOF/blob/main/IML-MOF.png" width="600">
 
 ## Required packages (Python 3.7)
 * [matminer](https://matminer.readthedocs.io/en/latest/): calculate classical force-field inspired descriptors of MOF structures
