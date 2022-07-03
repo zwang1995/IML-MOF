@@ -1,4 +1,4 @@
-# Imterpretable Machine Learning (IML) Discovering Metal-Organic Frameworks (MOFs)
+# Interpretable Machine Learning (IML) Discovering Metal-Organic Frameworks (MOFs)
 
 ## Description
 
