@@ -8,3 +8,5 @@
 * `training_utils.py`: general functions used for training
 
 * `viz.py`: visualization
+
+***Note:** Run training.py to start the model training.*
