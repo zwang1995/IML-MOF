@@ -10,7 +10,7 @@ This repository contains the data and scripts involved in the publication:
 * [matminer](https://matminer.readthedocs.io/en/latest/): calculate classical force-field inspired descriptors of MOF structures
 * [scikit-learn](https://scikit-learn.org/stable/): build ML models
 * [SHAP](https://shap.readthedocs.io/en/latest/index.html): interpret ML models
-* [seaborn](https://seaborn.pydata.org/): create visualizations
+* [matplotlib](https://matplotlib.org/) & [seaborn](https://seaborn.pydata.org/): visualization
 
 ## Software
 * [PaDEL-Descriptor](http://www.yapcwsoft.com/dd/padeldescriptor/): produce PubChem fingerprints of MOF structures
