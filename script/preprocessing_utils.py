@@ -3,9 +3,7 @@
 # @Author:   Zihao Wang, zwang@mpi-magdeburg.mpg.de
 # @File:     preprocessing_utils.py
 
-from openbabel import pybel
 
-pybel.ob.obErrorLog.StopLogging()
 import pandas as pd
 import numpy as np
 
