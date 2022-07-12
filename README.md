@@ -7,13 +7,13 @@ This repository contains the data and scripts involved in the publication:
 <img src="https://github.com/zwang1995/IML-MOF/blob/main/IML-MOF.png" width="600">
 
 ## Key packages (Python 3.7)
-* [matminer](https://matminer.readthedocs.io/en/latest/): calculate classical force-field inspired descriptors of MOF structures
-* [scikit-learn](https://scikit-learn.org/stable/): build ML models
-* [SHAP](https://shap.readthedocs.io/en/latest/index.html): interpret ML models
+* [matminer](https://matminer.readthedocs.io/en/latest/): calculation of classical force-field inspired descriptors for MOFs
+* [scikit-learn](https://scikit-learn.org/stable/): ML model development
+* [SHAP](https://shap.readthedocs.io/en/latest/index.html): ML model interpretation
 * [matplotlib](https://matplotlib.org/) & [seaborn](https://seaborn.pydata.org/): visualization
 
 ## Software
-* [PaDEL-Descriptor](http://www.yapcwsoft.com/dd/padeldescriptor/): produce PubChem fingerprints of MOF structures
+* [PaDEL-Descriptor](http://www.yapcwsoft.com/dd/padeldescriptor/): calculation of PubChem fingerprints for MOFs
 
 ## Maintainer
 Mr. Zihao Wang: zwang@mpi-magdeburg.mpg.de
