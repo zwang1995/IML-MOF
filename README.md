@@ -8,8 +8,8 @@ This repository contains the data and scripts involved in the publication:
 
 ## Key packages (Python 3.7)
 * [matminer](https://matminer.readthedocs.io/en/latest/): calculation of classical force-field inspired descriptors for MOFs
-* [scikit-learn](https://scikit-learn.org/stable/): ML model development
-* [SHAP](https://shap.readthedocs.io/en/latest/index.html): ML model interpretation
+* [scikit-learn](https://scikit-learn.org/stable/): development of ML models
+* [SHAP](https://shap.readthedocs.io/en/latest/index.html): interpretation of ML models 
 * [matplotlib](https://matplotlib.org/) & [seaborn](https://seaborn.pydata.org/): visualization
 
 ## Software
