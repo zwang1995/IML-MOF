@@ -1,4 +1,4 @@
-# Interpretable Machine Learning (IML) Discovering Metal-Organic Frameworks (MOFs)
+# Interpretable Machine Learning (IML) for the Discovery of Metal-Organic Frameworks (MOFs)
 
 This repository contains the data and scripts involved in the publication:
 
