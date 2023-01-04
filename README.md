@@ -2,7 +2,7 @@
 
 This repository contains the data and scripts involved in the publication:
 
-**_[Interpretable machine learning for accelerating the discovery of metal-organic frameworks for ethane/ethylene separation](https://doi.org/10.1016/j.cej.2022.136651)_**
+**[Interpretable Machine Learning for Accelerating the Discovery of Metal-Organic Frameworks for Ethane/Ethylene Separation](https://doi.org/10.1016/j.cej.2022.136651)**
 
 <img src="https://github.com/zwang1995/IML-MOF/blob/main/IML-MOF.png" width="600">
 
