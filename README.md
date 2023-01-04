@@ -6,7 +6,7 @@ This repository contains the data and scripts involved in the publication:
 
 <img src="https://github.com/zwang1995/IML-MOF/blob/main/IML-MOF.png" width="600">
 
-## Key packages (Python 3.7)
+## Requirements (Python 3.7)
 * [matminer](https://matminer.readthedocs.io/en/latest/): calculation of classical force-field inspired descriptors for MOFs
 * [scikit-learn](https://scikit-learn.org/stable/): development of ML models
 * [SHAP](https://shap.readthedocs.io/en/latest/index.html): interpretation of ML models 
