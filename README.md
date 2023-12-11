@@ -17,6 +17,6 @@ This repository contains the data and scripts involved in the publication:
 * [PaDEL-Descriptor](http://www.yapcwsoft.com/dd/padeldescriptor/): calculation of PubChem fingerprints for MOFs
 
 ## Authors
-* [Zihao Wang](https://www.mpi-magdeburg.mpg.de/person/109361/842836)
+* [Zihao Wang](https://zwang1995.github.io)
 * [Prof. Dr.-Ing. Teng Zhou](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/ZHOU-Teng/tengzhou)
 * [Prof. Dr.-Ing. Kai Sundmacher](https://www.mpi-magdeburg.mpg.de/person/24754/16345)
